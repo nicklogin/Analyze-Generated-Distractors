@@ -37,7 +37,7 @@
 | group_distractors.ipynb | Собрание дистракторов из разных источников в один файл |
 | lexical_metrics.ipynb | Вычисление метрик лексической сложности |
 | relevance_metrics.ipynb | Вычисление предлагаемых метрик релевантности |
-| score_outputs_gemini | Вычисление метрики "неправильности" дистракторов при помощи модели Gemini |
+| score_outputs_gemini.ipynb | Вычисление метрики "неправильности" дистракторов при помощи модели Gemini |
 
 
 ## Папка "synt-complexity"
