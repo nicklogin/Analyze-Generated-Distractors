@@ -29,16 +29,16 @@ The "general" folder contains the data and source code for the remaining experim
 
 | File | Description | 
 |------------------|--------------------| 
-| attest_chatgpt.ipynb | Retrieving distractors from the ChatGPT model| 
-| attest_deepseek.ipynb | Retrieving distractors from the DeepSeek model | 
-| calculate_individual_scores.ipynb | Calculating individual sequence matching metric values ​​for each example | 
+| attest_chatgpt.ipynb | Obtaining distractors from the ChatGPT model| 
+| attest_deepseek.ipynb | Obtaining distractors from the DeepSeek model | 
+| calculate_individual_scores.ipynb | Calculation of individual sequence matching metric values ​​for each example | 
 | combine_cross_tests.ipynb | Combination of cross-test results into one table | 
 | corr_all.ipynb | Calculation of correlations between different metrics | 
 | cross_test_ege.ipynb | Cross-test of lexical metrics on Unified State Examination data | 
 | cross_test_ru_race_tf.ipynb | Cross-test of lexical metrics on Ru-RACE-TF data | 
 | get_metrics_table.ipynb | Formation of table with the values ​​of the proposed metrics | 
 | group_distractors.ipynb | Collection of distractors from different sources into one file | 
-| lexical_metrics.ipynb | Computation of Lexical Complexity Metrics | 
+| lexical_metrics.ipynb | Calculation of Lexical Complexity Metrics | 
 | relevance_metrics.ipynb | Calculation of proposed relevance metrics | 
 | score_outputs_gemini.ipynb | Calculation of distractor "incorrectness" metric using the Gemini model | 
 
