@@ -48,7 +48,7 @@ The "general" folder contains the data and source code for the remaining experim
 ### Folder structure 
 
 - The "notebooks" subfolder contains interactive Jupyter notebooks with the source code of the experiments and research carried out 
-- The "data" subfolder contains data files used in notebooks and created during their work 
+- The "data" subfolder contains data files used in notebooks and created during their execution 
 
 ### Description of interactive Jupyter notebooks 
 
